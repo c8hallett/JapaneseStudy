@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"6bb9eec0bf24a451","type":"group","x":-800,"y":1280,"width":980,"height":1000,"label":"grammar"},
+		{"id":"6bb9eec0bf24a451","type":"group","x":-800,"y":1280,"width":940,"height":1000,"label":"grammar"},
 		{"id":"dbc4865e6d26c027","type":"group","x":-1360,"y":1280,"width":440,"height":1360,"label":"vocab"},
 		{"id":"cd0f97b6e15c6165","type":"group","x":-800,"y":-140,"width":570,"height":920,"label":"kana resources"},
 		{"id":"fdc5bf9a49230e4e","type":"link","url":"https://marshallyin.com/n5-vocabulary-course/","x":-1340,"y":1340,"width":400,"height":400},
@@ -13,7 +13,7 @@
 		{"id":"9dc8d5b148f91fa6","type":"text","text":"START","x":-625,"y":-380,"width":250,"height":60,"color":"4"},
 		{"id":"4c8fed319a79498a","type":"link","url":"https://bunpro.jp/","x":-760,"y":1320,"width":400,"height":400},
 		{"id":"99bce8b6cba245bc","type":"link","url":"https://www.fromzero.com/","x":-760,"y":1760,"width":400,"height":400},
-		{"id":"757189c2b08db462","type":"text","text":"# Textbooks\n## [Genki Links](https://discord.com/channels/1058965124020457512/1111646707344740432/1330031731281104898)\n## [Japanese for busy people](https://discord.com/channels/1058965124020457512/1111646707344740432/1330031777947058176)\n","x":-240,"y":1320,"width":420,"height":200}
+		{"id":"757189c2b08db462","type":"text","text":"# Textbooks\n## [Genki](https://en.wikipedia.org/wiki/Genki:_An_Integrated_Course_in_Elementary_Japanese)\n## [Japanese for busy people](https://www.ajalt.org/english/textbooks/japanese_for_busy_people.html)\n","x":-310,"y":1320,"width":410,"height":200}
 	],
 	"edges":[
 		{"id":"12a24e7bac623c07","fromNode":"9dc8d5b148f91fa6","fromSide":"bottom","toNode":"cd0f97b6e15c6165","toSide":"top","label":"kana time"},
