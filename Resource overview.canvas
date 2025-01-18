@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"6bb9eec0bf24a451","type":"group","x":-800,"y":1280,"width":980,"height":1000,"label":"grammar"},
+		{"id":"dbc4865e6d26c027","type":"group","x":-1360,"y":1280,"width":440,"height":1360,"label":"vocab"},
+		{"id":"cd0f97b6e15c6165","type":"group","x":-800,"y":-140,"width":570,"height":920,"label":"kana resources"},
+		{"id":"fdc5bf9a49230e4e","type":"link","url":"https://marshallyin.com/n5-vocabulary-course/","x":-1340,"y":1340,"width":400,"height":400},
+		{"id":"1aa604966769c006","type":"link","url":"https://www.wanikani.com/","x":-1340,"y":1780,"width":400,"height":400},
+		{"id":"e282ef0370224532","type":"link","url":"https://www.youtube.com/@takanihongodojo/shorts","x":-1340,"y":2220,"width":400,"height":400},
+		{"id":"49bf56c89c6cd379","type":"link","url":"https://realkana.com/","x":-775,"y":500,"width":525,"height":240},
+		{"id":"bc4a8ca8bd15cd73","type":"link","url":"https://sydney.jpf.go.jp/language/for-learners/free-japanese-learning-resources/#1598574775784-449d8454-260b","x":-780,"y":180,"width":530,"height":280},
+		{"id":"48ac178030d6fbac","type":"link","url":"https://www.tofugu.com/japanese/learn-hiragana/","x":-780,"y":-100,"width":250,"height":240},
+		{"id":"e22cba5a75cf3c82","type":"link","url":"https://www.tofugu.com/japanese/learn-katakana/","x":-500,"y":-100,"width":250,"height":240},
+		{"id":"9dc8d5b148f91fa6","type":"text","text":"START","x":-625,"y":-380,"width":250,"height":60,"color":"4"},
+		{"id":"4c8fed319a79498a","type":"link","url":"https://bunpro.jp/","x":-760,"y":1320,"width":400,"height":400},
+		{"id":"99bce8b6cba245bc","type":"link","url":"https://www.fromzero.com/","x":-760,"y":1760,"width":400,"height":400},
+		{"id":"757189c2b08db462","type":"text","text":"# Textbooks\n## [Genki Links](https://discord.com/channels/1058965124020457512/1111646707344740432/1330031731281104898)\n## [Japanese for busy people](https://discord.com/channels/1058965124020457512/1111646707344740432/1330031777947058176)\n","x":-240,"y":1320,"width":420,"height":200}
+	],
+	"edges":[
+		{"id":"12a24e7bac623c07","fromNode":"9dc8d5b148f91fa6","fromSide":"bottom","toNode":"cd0f97b6e15c6165","toSide":"top","label":"kana time"},
+		{"id":"95a73cbdc8d40424","fromNode":"cd0f97b6e15c6165","fromSide":"bottom","toNode":"dbc4865e6d26c027","toSide":"top","label":"vocabulary"},
+		{"id":"19d5eb4488c34580","fromNode":"cd0f97b6e15c6165","fromSide":"bottom","toNode":"6bb9eec0bf24a451","toSide":"top"}
+	]
+}
